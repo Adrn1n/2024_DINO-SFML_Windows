@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DINO_SFML", "DINO_SFML\DINO_SFML.vcxproj", "{952EA93D-7B22-4B60-A822-CF984C2916BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952EA93D-7B22-4B60-A822-CF984C2916BC}.Debug|x64.ActiveCfg = Debug|x64
+		{952EA93D-7B22-4B60-A822-CF984C2916BC}.Debug|x64.Build.0 = Debug|x64
+		{952EA93D-7B22-4B60-A822-CF984C2916BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{952EA93D-7B22-4B60-A822-CF984C2916BC}.Debug|x86.Build.0 = Debug|Win32
+		{952EA93D-7B22-4B60-A822-CF984C2916BC}.Release|x64.ActiveCfg = Release|x64
+		{952EA93D-7B22-4B60-A822-CF984C2916BC}.Release|x64.Build.0 = Release|x64
+		{952EA93D-7B22-4B60-A822-CF984C2916BC}.Release|x86.ActiveCfg = Release|Win32
+		{952EA93D-7B22-4B60-A822-CF984C2916BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C480BDC-79D1-4BB8-BCEE-817313F5E6A2}
+	EndGlobalSection
+EndGlobal
